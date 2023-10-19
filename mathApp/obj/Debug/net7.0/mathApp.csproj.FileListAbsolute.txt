@@ -1,0 +1,15 @@
+D:\C# problemExample\mathApp\bin\Debug\net7.0\mathApp.exe
+D:\C# problemExample\mathApp\bin\Debug\net7.0\mathApp.deps.json
+D:\C# problemExample\mathApp\bin\Debug\net7.0\mathApp.runtimeconfig.json
+D:\C# problemExample\mathApp\bin\Debug\net7.0\mathApp.dll
+D:\C# problemExample\mathApp\bin\Debug\net7.0\mathApp.pdb
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.csproj.AssemblyReference.cache
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.AssemblyInfoInputs.cache
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.AssemblyInfo.cs
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.csproj.CoreCompileInputs.cache
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.dll
+D:\C# problemExample\mathApp\obj\Debug\net7.0\refint\mathApp.dll
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.pdb
+D:\C# problemExample\mathApp\obj\Debug\net7.0\mathApp.genruntimeconfig.cache
+D:\C# problemExample\mathApp\obj\Debug\net7.0\ref\mathApp.dll
