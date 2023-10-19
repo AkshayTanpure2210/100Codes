@@ -1,0 +1,15 @@
+D:\C# problemExample\GreatterValue\bin\Debug\net7.0\GreatterValue.exe
+D:\C# problemExample\GreatterValue\bin\Debug\net7.0\GreatterValue.deps.json
+D:\C# problemExample\GreatterValue\bin\Debug\net7.0\GreatterValue.runtimeconfig.json
+D:\C# problemExample\GreatterValue\bin\Debug\net7.0\GreatterValue.dll
+D:\C# problemExample\GreatterValue\bin\Debug\net7.0\GreatterValue.pdb
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.csproj.AssemblyReference.cache
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.AssemblyInfoInputs.cache
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.AssemblyInfo.cs
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.csproj.CoreCompileInputs.cache
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.dll
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\refint\GreatterValue.dll
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.pdb
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\GreatterValue.genruntimeconfig.cache
+D:\C# problemExample\GreatterValue\obj\Debug\net7.0\ref\GreatterValue.dll
