@@ -1,0 +1,15 @@
+D:\C# problemExample\leapyear\bin\Debug\net7.0\leapyear.exe
+D:\C# problemExample\leapyear\bin\Debug\net7.0\leapyear.deps.json
+D:\C# problemExample\leapyear\bin\Debug\net7.0\leapyear.runtimeconfig.json
+D:\C# problemExample\leapyear\bin\Debug\net7.0\leapyear.dll
+D:\C# problemExample\leapyear\bin\Debug\net7.0\leapyear.pdb
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.csproj.AssemblyReference.cache
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.AssemblyInfoInputs.cache
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.AssemblyInfo.cs
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.csproj.CoreCompileInputs.cache
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.dll
+D:\C# problemExample\leapyear\obj\Debug\net7.0\refint\leapyear.dll
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.pdb
+D:\C# problemExample\leapyear\obj\Debug\net7.0\leapyear.genruntimeconfig.cache
+D:\C# problemExample\leapyear\obj\Debug\net7.0\ref\leapyear.dll
