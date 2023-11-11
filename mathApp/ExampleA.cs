@@ -6,7 +6,7 @@ namespace TransflowerLearning.MathSolution
     {
         public static int x;
         private static int y = 30;
-        private static int z = 50;
+        private// static int z = 50;
    
         public static void MaxValue()
         {
