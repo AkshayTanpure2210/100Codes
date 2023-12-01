@@ -1,12 +1,11 @@
-﻿
-// using TransflowerLearning.MathSolution;
+﻿ using TransflowerLearning.MathSolution;
 
 
-//ExampleA obj1=new ExampleA();
+ExampleA obj1=new ExampleA();
 
-// ExampleA.MaxValue();
-// ExampleA.MinValue();
-// ExampleA.MaxValueByTernory();
+ ExampleA.MaxValue();
+ ExampleA.MinValue();
+ ExampleA.MaxValueByTernory();
 
 // LeapYear lp = new LeapYear();
 // LeapYear.LeapYearChecker1();
